@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SBSTest</string>
+    <string name="request">Request</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connection_error">Connection Error! Try again.</string>
+
+</resources>
